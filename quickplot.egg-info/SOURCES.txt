@@ -1,0 +1,14 @@
+README.md
+setup.py
+quickplot/__init__.py
+quickplot/barplot.py
+quickplot/barplot_dodged.py
+quickplot/colors.py
+quickplot/histogram.py
+quickplot/lineplot_dual_yaxes.py
+quickplot/number_formatter.py
+quickplot.egg-info/PKG-INFO
+quickplot.egg-info/SOURCES.txt
+quickplot.egg-info/dependency_links.txt
+quickplot.egg-info/requires.txt
+quickplot.egg-info/top_level.txt
